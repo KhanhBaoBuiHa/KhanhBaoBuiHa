@@ -7,7 +7,7 @@
     </head>
     <body>
         <h2>Profile</h2>
-        <p>Name : Bui Ha Bao Khanh</p>
+        <p>Name : Tieu</p>
         <p>Age : 19</p>
         <p>University : HCMC university of Science</p>
         <p>Progamming Language : "C", "C++", "Python", "HTML", "CSS"</p>
