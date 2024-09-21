@@ -10,7 +10,8 @@
         <p>Name : Bui Ha Bao Khanh</p>
         <p>Age : 19</p>
         <p>University : HCMC university of Science</p>
-        <p>Language : "C", "C++", "Python", "HTML", "CSS"</p>
+        <p>Progamming Language : "C", "C++", "Python", "HTML", "CSS"</p>
+        <p>Others : "Photoshop", "Lightroom","Illustrator","Blender"</p>
         <h2>Contact</h2>
         <p>Discord : @bk8605</p>
     </body>    
