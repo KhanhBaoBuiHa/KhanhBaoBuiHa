@@ -11,7 +11,7 @@
         <p>Age : 19</p>
         <p>University : HCMC university of Science</p>
         <p>Progamming Language : "C", "C++", "Python", "HTML", "CSS"</p>
-        <p>Others : "Photoshop", "Lightroom","Illustrator","Blender"</p>
+        <p>Others : "Photoshop", "Lightroom","Illustrator"</p>
         <h2>Contact</h2>
         <p>Discord : @bk8605</p>
     </body>    
