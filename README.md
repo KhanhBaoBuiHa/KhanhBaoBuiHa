@@ -6,10 +6,6 @@
         <meta name ="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <h2>Profile</h2>
-        <p>Name : Tieu</p>
-        <p>Age : 20</p>
-        <h2>Contact</h2>
-        <p>Discord : @bk8605</p>
+        <h1>BORN TO BE A GOD</h1>
     </body>    
 </html>    
