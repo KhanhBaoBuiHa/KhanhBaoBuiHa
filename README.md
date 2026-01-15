@@ -6,6 +6,8 @@
         <meta name ="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
+        <h2>Hello~ Hallo~ Bonjour~</h2>
         <h3>literally me : 😐🥱😎🤩</h3>
+        <h3>K23 @HCMUS Mathematics and Computer Science</h3>
     </body>    
 </html>    
